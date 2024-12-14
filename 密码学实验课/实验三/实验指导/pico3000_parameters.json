@@ -1,0 +1,1 @@
+{"trigger_threshold": 1000.0, "trigger_direction": "RISING", "trigger_source": "ChA", "trigger_delay": 0, "horizonal_sequence": 100, "horizonal_pretrigger": 0, "horizonal_posttrigger": 50000, "horizonal_timebase": 3, "ChA": ["DC1M", "\u00b15 V", 0, false], "ChB": ["AC1M", "\u00b12 V", 0, true]}
